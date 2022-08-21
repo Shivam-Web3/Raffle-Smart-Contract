@@ -1,0 +1,8 @@
+.env
+artifacts
+cache
+deployments
+node_modules
+coverage
+coverage.json
+gasReporter.txt
